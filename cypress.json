@@ -1,0 +1,18 @@
+{
+  "viewportWidth": 1024,
+  "viewportHeight": 768,
+  "defaultCommandTimeout": 10000,
+  "baseUrl": "https://serverrest.dev/",
+  "projectId": "zs5gva",
+
+ 
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportDir": "mochawesome-reportr/json",
+    "overwrite": false,
+    "html": false,
+    "json": true
+  }
+}
+
+

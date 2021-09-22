@@ -19,7 +19,6 @@
     "step_definitions": "cypress/support/steps"
   },
   "dependencies": {
-    "joi": "^17.4.2",
     "node-rest-server": "^2.1.0"
   }
 }
